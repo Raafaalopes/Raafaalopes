@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou formado em Ciência da Computação pela Universidade Estadual de Maringá (UEM) e, atualmente, estou trabalhando na empresa ArBrain.
+Sou formado em Ciência da Computação pela Universidade Estadual de Maringá (UEM) e, atualmente, estou trabalhando na empresa ArBrain como Desenvolvedor Mobile.
 
 📊 Atualmente explorando: C#, MAUI, .NET.
 
