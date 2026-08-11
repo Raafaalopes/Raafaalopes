@@ -36,6 +36,7 @@ Sou formado em Ciência da Computação pela Universidade Estadual de Maringá (
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,git,github,react,javascript,c,cpp,python" />
   </a>
 </p>
+
 ---
 
 ### 📊 Estatísticas
