@@ -39,16 +39,17 @@ Sou formado em Ciência da Computação pela Universidade Estadual de Maringá (
 
 ---
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
-<p align="left">
+ <p align="left">
+   
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raafaalopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Raafaalopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     width="420"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raafaalopes&layout=compact&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raafaalopes&layout=compact&theme=tokyonight&locale=pt-br"
     width="390"
   />
-</p>
+</p> -->
