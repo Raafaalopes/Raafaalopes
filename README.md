@@ -38,7 +38,7 @@ Sou formado em Ciência da Computação pela Universidade Estadual de Maringá (
 </p>
 
 ---
-### 👻 Pac-Man Contribution Graph
+### 👻 Pac-Man
 <p align="left">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raafaalopes/Raafaalopes/output/pacman-contribution-graph-dark.svg">
